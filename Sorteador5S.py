@@ -1,7 +1,7 @@
 import emoji
 from random import shuffle #Função que as listas e as deixa embaralhadas.
 
-print(emoji.emojize("      :alien_monster:SORTEIO DDS:alien_monster:\n-- :black_heart:Yasmin Novais Vieira:black_heart: --\n"))
+print(emoji.emojize("      :alien_monster:SORTEIO 5S:alien_monster:\n-- :black_heart:Yasmin Novais Vieira:black_heart: --\n"))
 
 nomes=["Ana Clara Grizotto Casagrande",
        "André Luís Sousa Dantas",
